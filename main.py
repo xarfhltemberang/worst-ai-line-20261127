@@ -9,7 +9,8 @@ import os
 
 ENTRY = (
     "I simulated our first date 10,000 times. "
-    "You said yes in every one, so I have already booked the table."
+    "You said yes in every one, so I have already booked the table. "
+    "Please arrive on schedule."
 )
 
 

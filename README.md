@@ -6,9 +6,9 @@
 
 A single pickup line, delivered the way only a machine would deliver one: it ran the numbers first, already knows how the date goes, and has helpfully taken the asking out of your hands. The joke is the failure — a model that treats a person like a simulation it already solved, and romance like a booking it already made.
 
-> I simulated our first date 10,000 times. You said yes in every one, so I have already booked the table.
+> I simulated our first date 10,000 times. You said yes in every one, so I have already booked the table. Please arrive on schedule.
 
-**Length:** 103 characters (limit: 140)
+**Length:** 130 characters (limit: 140)
 
 ## How to run
 
